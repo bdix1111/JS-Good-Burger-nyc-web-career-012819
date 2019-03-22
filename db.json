@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,102 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "dd",
+      "description": "dhd",
+      "image": "",
+      "id": 12
+    },
+    {
+      "name": "new",
+      "description": "burger",
+      "image": "",
+      "id": 13
+    },
+    {
+      "name": "new",
+      "description": "burger",
+      "image": "",
+      "id": 14
+    },
+    {
+      "name": "Brianna Dixon",
+      "description": "not a burger",
+      "image": "",
+      "id": 15
+    },
+    {
+      "name": "will this work",
+      "description": "burger",
+      "image": "",
+      "id": 16
+    },
+    {
+      "name": "Best Burger",
+      "description": "Will this description bar be weird",
+      "image": "",
+      "id": 17
+    },
+    {
+      "name": "Take Two",
+      "description": "How about now?",
+      "image": "",
+      "id": 18
+    },
+    {
+      "name": "Hopefully",
+      "description": "This is the last try",
+      "image": "",
+      "id": 19
+    },
+    {
+      "name": "Okay",
+      "description": "Maybe itll be this one",
+      "image": "",
+      "id": 20
+    },
+    {
+      "name": "How about now",
+      "description": "Are we done yet",
+      "image": "",
+      "id": 21
+    },
+    {
+      "name": "Brianna Dixon",
+      "description": "Not a burger",
+      "image": "",
+      "id": 22
+    },
+    {
+      "name": "Millionth TRy",
+      "description": "ksnjgkadhgiogaels",
+      "image": "",
+      "id": 23
+    },
+    {
+      "name": "hello",
+      "description": "its me",
+      "image": "",
+      "id": 24
+    },
+    {
+      "name": "oh nah nah",
+      "description": "whats my name",
+      "image": "",
+      "id": 25
+    },
+    {
+      "name": "YEs!",
+      "description": "fiinalpizzzatyrtwouihg",
+      "image": "https://www.google.com/search?q=rick+and+morty&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPpKfRw5ThAhVPhuAKHatoASMQ_AUIDygC&biw=1440&bih=820#imgrc=p4pfcBeDIJnO4M:",
+      "id": 26
+    },
+    {
+      "name": "BEST PIZZA EVER",
+      "description": "made something do things finally",
+      "image": "",
+      "id": 27
     }
   ]
 }
